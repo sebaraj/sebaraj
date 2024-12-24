@@ -1,10 +1,10 @@
 ## About Me
 - Junior at Yale studying Computer Science
 - Passionate about distributed/operating systems, cooking, and motorsports
-- Currently learning more about distributed databases and Rust
+- Currently learning more about distributed databases
 - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux)
 
-I am always open to connect and am looking for an internship for Summer 2025, so feel free to contact to me at bryan.sebaraj@yale.edu.
+<!-- I am always open to connect and am looking for an internship for Summer 2025, so feel free to contact to me at bryan.sebaraj@yale.edu. -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaraj&layout=compact&theme=dark&hide=jupyternotebook,makefile,shell)](https://github.com/sebaraj/github-readme-stats)  
