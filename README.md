@@ -1,7 +1,7 @@
 ## About Me
 - Junior at Yale studying Electrical Engineering and Computer Science
 - Passionate about distributed/operating systems, cooking, and motorsports
-- Currently learning more about Rust and compilers/interpreters
+- Currently learning more about Rust and distributed storage
 - Undergraduate Learning Assistant for CPSC 424/524 (Parallel Programming)
 <!-- - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux) -->
 
