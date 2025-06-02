@@ -5,6 +5,7 @@
 - Some things I've done in 2025:
   - Founding Engineer at a stealth startup
   - Software Engineer at CERN, optimizing the file scheduler for FTS
+  - Software Engineer Intern at Capital Rx
   - Undergraduate Learning Assistant for CPSC 4240/5240 (Parallel Programming)
 <!-- - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux) -->
 
