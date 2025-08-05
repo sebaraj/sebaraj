@@ -3,10 +3,11 @@
 - Passionate about the distributed systems, software at the HW/SW interface, and motorsports
 - Currently learning more about Rust, complex analysis, and South American cuisine
 - Currently:
-  - Software Engineer at CERN, optimizing the file scheduler for FTS
-  - Software Engineer Intern at Capital Rx
+  - Software Engineer at CERN, optimizing the file scheduler for the exabyte-scale File Transfer System
+  - Senior Platform Engineer at Capital Rx
 - Previously in 2025:
   - Undergraduate Learning Assistant for CPSC 4240/5240 (Parallel Programming)
+  - Software Engineer Intern at Capital Rx
   - Founding Engineer at a stealth startup
 <!-- - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux) -->
 
