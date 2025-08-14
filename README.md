@@ -3,7 +3,6 @@
 - Passionate about the distributed systems, software at the HW/SW interface, and motorsports
 - Currently learning more about Rust, complex analysis, and South American cuisine
 - Currently:
-  - Software Engineer at CERN, optimizing the file scheduler for the exabyte-scale File Transfer System
   - Senior Platform Engineer at Capital Rx
 - Previously in 2025:
   - Undergraduate Learning Assistant for CPSC 4240/5240 (Parallel Programming)
