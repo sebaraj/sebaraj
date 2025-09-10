@@ -1,7 +1,6 @@
 ## About Me
 - Senior at Yale studying Electrical Engineering and Computer Science
 - Passionate about the distributed systems, software at the HW/SW interface, and motorsports
-- Currently learning more about Rust, complex analysis, and South American cuisine
 - Currently:
   - Senior Platform Engineer at Capital Rx
 - Previously in 2025:
