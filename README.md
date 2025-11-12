@@ -1,12 +1,10 @@
 ## About Me
-- Senior at Yale studying Electrical Engineering and Computer Science
-- Passionate about the distributed systems, software at the HW/SW interface, and motorsports
-- Currently:
-  - Senior Platform Engineer at Capital Rx
-- Previously in 2025:
+- Senior SWE at Judi Health (fka Capital Rx), working on scale and observability
+- Recent Yale graduate with a B.S. in Electrical Engineering and Computer Science and a certificate (minor) in Statistics & Data Science
+- Previously:
   - Undergraduate Learning Assistant for CPSC 4240/5240 (Parallel Programming)
-  - Software Engineer Intern at Capital Rx
-  - Founding Engineer at a stealth startup
+  - Research Assistant focused on efficient maximum common induced subgraphs finding algorithms
+  - Founding Engineer at a finance-recruitment prep startup
 <!-- - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux) -->
 
 <!-- I am always open to connect and am looking for an internship for Summer 2025, so feel free to contact to me at bryan.sebaraj@yale.edu. -->
