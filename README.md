@@ -3,7 +3,7 @@
 - Recent Yale graduate with a B.S. in Electrical Engineering and Computer Science and a certificate (minor) in Statistics & Data Science
 - Previously:
   - Undergraduate Learning Assistant for CPSC 4240/5240 (Parallel Programming)
-  - Research Assistant focused on efficient maximum common induced subgraphs finding algorithms
+  - Research Assistant focused on efficient maximum common induced subgraph finding algorithms
   - Founding Engineer at a finance-recruitment prep startup
 <!-- - Some projects that I've contributed to: [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), [catppuccin tmux](https://github.com/catppuccin/tmux) -->
 
